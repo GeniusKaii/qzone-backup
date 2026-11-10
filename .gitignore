@@ -1,0 +1,12 @@
+# 登录凭证，绝不入库
+qzone_cookies.json
+*.json.cookies
+edge_debug/
+
+# 备份产物（体积大且含个人数据）
+backups/
+
+# 其余
+__pycache__/
+*.pyc
+.DS_Store
